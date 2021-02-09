@@ -1,4 +1,4 @@
-<h1 align="center"> Brincando de Selenium com Python <h1>
+<h1 align="center"> Brincando de Selenium com Python </h1>
 
 :warning: A aplicação Firefox ainda está incompleta. :warning: 
 
