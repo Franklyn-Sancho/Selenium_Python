@@ -27,7 +27,7 @@ class Google:
 ff = webdriver.Firefox()
 g = Google(ff)
 g.navigate()
-g.lucky('Live de Python')
+g.lucky('') # Frase Desejada
 ff.quit()
             
 
